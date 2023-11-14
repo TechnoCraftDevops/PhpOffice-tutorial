@@ -1,0 +1,17 @@
+{
+    "name": "test/excel_read",
+    "autoload": {
+        "psr-4": {
+            "Test\\ExcelRead\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed",
+            "email": "mohammed.boulouiz@magnolia.fr"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}
